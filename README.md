@@ -29,6 +29,7 @@ Visual Studio Code
 ![picture1](https://user-images.githubusercontent.com/79213116/124357451-8169f580-dbe9-11eb-90d2-46fcdb447710.png)
 
 - To remove all the filters and add new search criteria, the user can refresh the page.
+- click the [link](file:///Users/komalrao/Documents/DA_Bootcamp/UFOs/index.html) to the webpage.
 
 ## Summary 
 - One drawback of the webpage is that there is no information obtained on the number of the results obtained after the filter. The user has to manually count the number of results obtained.
